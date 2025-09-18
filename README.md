@@ -5,7 +5,7 @@ This package allows you to watch your local processes and get notifications in T
 1. Clone this repository to your computer.
 2. Create a Telegram bot using [this instructions](https://core.telegram.org/bots#6-botfather). Grab an API key.
 
-![Creating a bot using BotFather](https://raw.githubusercontent.com/NeliHarbuzava/telegram-process-end-notify/master/demo/creating-a-bot.png)
+![Creating a bot using BotFather](./demo/creating-a-bot.png)
 
 3. Create `.env` file with the following content:
 ```
@@ -19,4 +19,5 @@ npm run start
 ```
 6. Open your bot in Telegram and type `/start`.
 
-![Communicating with a bot](https://raw.githubusercontent.com/NeliHarbuzava/telegram-process-end-notify/master/demo/communicating-with-bot.png)
+
+![Communicating with a bot](./demo/communicating-with-bot.png)
